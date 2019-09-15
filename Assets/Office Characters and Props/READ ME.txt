@@ -1,0 +1,11 @@
+Package: Office Characters and Props v1.1
+Support info: support@comphonia.com
+
+Release 1.1 - Added 70 new props
+
+Thank you for purchasing this growing pack, please back up you project before updating this package. Charaters,
+props and prefabs have their own folder so its easy to use. Feel free to use models to suit your needs.
+
+Note: Substance textures might not work well for some versions of unity, please be sure to update your unity.
+
+Please contact us with questions or asset update recommendations. Thank you.
